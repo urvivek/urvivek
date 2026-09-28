@@ -2,8 +2,6 @@
 🌱 Currently learning HTML, CSS, and JavaScript while strengthening my frontend development skills.<br>🚀 Passionate about building real-world projects and working towards becoming a skilled Web Developer.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vivek_thakur.93) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranavivek5544@gmail.com) 
 
 # 💻 Tech Stack:
 ## 🖥️ Frontend
